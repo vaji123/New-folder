@@ -36,4 +36,3 @@ def AND_operation(word_list1,word_list2): #define a function for and operator
 oper_AND=list(AND_operation(words_in_term1,words_in_term4)) #taken the common files for both two files
 print('and val',oper_AND),print('\n')
 
-freq(oper_AND)
